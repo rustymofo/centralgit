@@ -1,6 +1,7 @@
 Git has three stages of workflow -1. Working area 2. Staging area 3. Local Repository.
-We send data or code from working aria to staging aria by add command and staging aria to Local repository by
+We send data or code from working aria to staging aria by add command and staging area to Local repository by
 commit command and finally send data/code from Local repo to central repo by push command.
+
 Basic commands: 
 
 # yum update -y
